@@ -27,3 +27,6 @@ skshuvokhan454@gmail.com
 ## 📊 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=somrat725&show_icons=true&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/somrat725/somrat725/blob/output/github-contribution-grid-snake.svg)
