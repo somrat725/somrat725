@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Somrat Molla</h1>
+<h3 align="center">Beginner Web Developer from Bangladesh</h3>---
 
-<!--
-**somrat725/somrat725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Student
+- 🌱 Learning Web Development
+- 💻 Skills: HTML, CSS, Python, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌐 Connect With Me
+
+Facebook
+https://www.facebook.com/somrat.725
+
+Email
+skshuvokhan454@gmail.com
