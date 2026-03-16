@@ -1,3 +1,6 @@
+<p align="center">
+<img src="Image 1.png">
+</p>
 <h1 align="center">Hi 👋 I'm Somrat Molla</h1>
 <h3 align="center">Beginner Web Developer from Bangladesh</h3>---
 
